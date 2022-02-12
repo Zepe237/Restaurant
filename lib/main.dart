@@ -6,4 +6,4 @@
      debugShowCheckedModeBanner:false,
      home: StartSceen(),
    ));
- }
+ } 
