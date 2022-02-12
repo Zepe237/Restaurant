@@ -1,9 +1,9 @@
  import 'package:flutter/material.dart';
- import 'screens/home/home.dart';
+ import 'screens/home/startPage.dart';
 
  main(){
    runApp(MaterialApp(
      debugShowCheckedModeBanner:false,
-     home: HomePage(),
+     home: StartSceen(),
    ));
  }
